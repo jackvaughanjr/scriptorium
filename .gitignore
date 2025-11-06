@@ -4,6 +4,7 @@ com.github.autopkg.stage.plist
 *.sqlite
 text/
 xml/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
